@@ -1,0 +1,7 @@
+{
+  "name": "车载听书",
+  "description": "专为驾驶场景设计的全语音交互、离线流水线预取听书与即时伴读答疑应用",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
